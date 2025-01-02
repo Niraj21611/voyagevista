@@ -39,7 +39,9 @@ Follow these steps to set up the project locally:
     ```
 
 5. **View the project in your browser**:  
+    ```bash
    Open `http://localhost:3000` in your preferred browser.  
+    ```
 
 ---
 
