@@ -1,7 +1,7 @@
 
 # voyageVista
 
-voyageVista is your go to travel planner enabling access to real world map allowing user's to seamlessly pin point there visited location and list there memories   
+voyageVista is your go-to travel planner enabling access to real-world map allowing users to seamlessly pin point there visited locations and list there memories   
 
 ---
 
@@ -47,16 +47,16 @@ Follow these steps to set up the project locally:
 
 ## Technologies Used  
 - **ReactJS**: For building the user interface.  
-- **Mpdules's css**: For styling and responsiveness.  
-- **HTML**: For structuring the application.  
-- **Vite**: For fast development and build process.  
+- **Modules's css**: For styling and responsiveness.  
+- **HTML**: This is used to structure the application.  
+- **Vite**: This is for the fast development and build process.  
 
 ---
 
 ## Features  
 - Used react's leaflet for displaying map 
-- Created flexible hooks to get url position and geolocation 
-- Industry standard naming convention's for maintainability
+- Created flexible hooks to get URL position and geolocation 
+- Industry-standard naming conventions for maintainability
 - Managed state using react's Context API
 
 ---
